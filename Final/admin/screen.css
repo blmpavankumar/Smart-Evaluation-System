@@ -1,0 +1,10 @@
+body {
+		background:#fff url(../images/bg_body.gif) repeat-x;
+		
+		color:#333;
+		line-height:180%;
+		margin:0;
+		padding:0;
+		text-align:center;
+	}
+	
